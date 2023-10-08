@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: #178b6e;
+}
+
+.menu {
+    overflow: hidden;
+    background-color: #3333336e;
+  }
+  
+  /* Style the topnav links */
+  .menu a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .menu a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .imagens{
+    padding-top: 20px;
+    text-align: center;
+  }
